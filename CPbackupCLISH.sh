@@ -3,8 +3,7 @@
 #
 # Copyright 2021 by by 0x7c2, Simon Brecht.
 # All rights reserved.
-# This file is used to delete specific connections from kernel tables,
-# and is released under the "Apache License 2.0". Please see the LICENSE
+# This file is released under the "Apache License 2.0". Please see the LICENSE
 # file that should have been included as part of this package.
 #
 
